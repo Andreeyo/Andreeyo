@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Andreeyo
-- 👀 I’m interested in python, django, API, websockets, NLP, ML
+- 👋 Hi, I’m @Andreeyo and I'm a web developer and I started coding since 2016
+- 👀 I’m interested in html, css, python, django, API, websockets, NLP, ML, Web development
 - 🌱 I’m currently learning data science with python
 
 <!---
